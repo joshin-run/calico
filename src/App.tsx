@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
       <MenuHeader />
-      <img src={logo} className="App-logo" alt="logo" />
     </div>
   );
 }
