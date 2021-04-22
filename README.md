@@ -1,3 +1,24 @@
+# Documenation for Project Calico
+
+This project is inspired by the prompt provided by Pocket RN and their interview challenge project.
+
+## Planning
+
+- Chose to dust off my React/TypeScript skills instead of safely choosing Vue/JavaScript and venture out on an acceptable challenge.
+- Threw out some ideas on Figma and used that space to wireframe as well.
+- Decided to quickly create a brand and logo since that's something I love to do.
+- App Design Summary
+    - Landing page with login
+    - Simple Dashboard
+        - Create Appointments
+        - View Appointments
+
+Planning and mockups can be found here
+
+[Figma Thinking](https://www.figma.com/file/2n6rNpzFm8cgWZKVj9jZ3M/Calico?node-id=37%3A2)
+
+## 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
